@@ -49,8 +49,8 @@ docker-compose up --build
 
 ## Acesso à Aplicação
 
-- Frontend: http://localhost:3000
-- Backend: http://localhost:5000
+- Frontend: http://localhost:5173
+- Backend: http://localhost:5001
 
 ## Rotas da API
 
